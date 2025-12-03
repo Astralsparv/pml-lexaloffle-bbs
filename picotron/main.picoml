@@ -1,0 +1,13 @@
+<metadata icon='--[[pod_type="gfx"]]unpod("b64:bHo0AGgAAABpAAAA8SpweHUAQyAQEAQAA6ADEAMHA4ADAAMAI4AjEAMQYxADMBNrEzADqwMQAwsfIGseCwMAAw4XDksOFw4KADEeKx4KAPAUTitOAwADDxoeBw4rDgceDQMQAx0eKx4dAzATKw4rE2Bj8BU=")' title="Picotron BBS" author="Astralsparv" description="Picotron BBS"></metadata>
+
+<title>Picotron Cartridges</title>
+
+<link where="self" target="../pico8/">Pico-8</link>
+<link where="self" color=17 target="../picotron/">Picotron</link>
+<link where="self" target="../voxatron/">Voxatron</link>
+
+<link id="prevpage" where="self" target="?page=1">Prveious Page</link>
+<link id="nextpage" where="self" target="?page=2">Next Page</link>
+
+<script src="../bbs.lua"></script>
+<script src="main.lua"></script>
